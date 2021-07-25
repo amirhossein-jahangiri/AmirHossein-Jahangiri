@@ -1,5 +1,5 @@
 ## Amirhossein Jahangiri
-**Article Name is Surena**
+**Artistic Name is Surena**
 
 ![AmirHossein-Jahangiri](https://user-images.githubusercontent.com/69201021/126878262-0c82d3cf-ce44-4454-af25-9f0d23914483.jpg)
 
