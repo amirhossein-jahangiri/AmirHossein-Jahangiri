@@ -19,7 +19,7 @@
 
 ## **Hi there , welcome to my Github** <img src="https://user-images.githubusercontent.com/69201021/128178707-f9c4bf7b-9402-4bea-807b-6f288df710ed.gif" width="29px">
 
-**My name is AmirHossein and my artistic name is Surena. I am a mobile application developer based in Iran. Here, you can find some of my open-source contributions.**
+**My name is Amirhossein and my artistic name is Surena. I am a mobile application developer based in Iran. Here, you can find some of my open-source contributions.**
 
 
 - 🔭 I’m currently working on <a href="https://github.com/amirhossein-jahangiri/Cryptocurrency-Prices"> CryptoCurrency App </a> project.
