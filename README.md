@@ -22,7 +22,7 @@
 **My name is Amirhossein and my artistic name is Surena. I am a mobile application developer based in Iran. Here, you can find some of my open-source contributions.**
 
 
-- 🔭 I’m currently working on <a href="https://github.com/amirhossein-jahangiri/Cryptocurrency-Prices"> CryptoCurrency App </a> project.
+- 🔭 I’m currently working on <a href="https://github.com/amirhossein-jahangiri/Barcode-Scanner-And-Barcode-Maker"> Barcode Scanner and Barcode Maker App </a> project.
 - 🌱 I’m currently learning more on mobile programming with Flutter.
 - ⚡ Available for Freelance projects.
 - 🎶 Heavenly book reader.
